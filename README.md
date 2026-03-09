@@ -1,26 +1,19 @@
 # modern-physics-data-analysis
-Modern Physics Data Analysis – Python
+# Modern Physics Data Analysis – Python
 
 This repository contains Python-based data analysis projects completed in the Modern Physics Laboratory course at the University of Texas at Austin.
 
-Techniques used include:
+## Techniques Used
 
-data ingestion using pandas
+- Data ingestion using **pandas**
+- Numerical analysis using **NumPy**
+- Data visualization using **Matplotlib**
+- Nonlinear regression and curve fitting using **SciPy**
+- Statistical analysis and parameter estimation
 
-visualization using matplotlib
+## Projects Included
 
-statistical analysis
-
-nonlinear regression using scipy
-
-curve fitting of physical models
-
-Projects included:
-
-Blackbody radiation analysis
-
-Nuclear decay half-life modeling
-
-NMR relaxation modeling
-
-Particle trajectory analysis
+- Blackbody radiation analysis
+- Nuclear decay half-life modeling
+- NMR relaxation modeling
+- Particle trajectory data analysis
